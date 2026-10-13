@@ -5,4 +5,4 @@ If you have any project or experience you think I could be helpful, send me an e
 
 - 📞 Contact me: guiziifs@gmail.com
 - 📚 Currently studying: computer cience
-- 🛠 Tools: C / C++ / Javascript / HTML 
+- 🛠 Tools: Python / C / C++ / Java 
